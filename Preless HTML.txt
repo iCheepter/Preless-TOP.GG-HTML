@@ -1,0 +1,181 @@
+    <html><head>
+ </head><body><a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://top.gg/bot/734392692871659571">
+    <img alt="Preless" src="https://top.gg/api/widget/734392692871659571.svg">
+</a>
+ <div class="row">         
+ <div style="max-width: 100%;margin-right: 7px;" class="card text-white bg-danger mb-3">
+  <div class="card-header">Preless</div>
+  <div class="card-body">
+    <h5 style="color:#fff" class="card-title">Türkçe Discord botu</h5>
+    <p style="color:#fff" class="card-text">Sürekli Güncellenen Botumuz Yeni Özelliklere Sahip Oluyor.</p>
+  </div>
+</div>
+<div style="max-width: 100%;" class="card text-white bg-primary mb-3">
+  <div class="card-header">Eğlence</div>
+  <div class="card-body">
+    <h5 style="color:#fff" class="car kid-title">Eğlence Komutları</h5>
+    <p style="color:#fff" class="card-text">Eğlence Komutlarımızla Eğlenebilir.Önerilerinizi Bize İletebilirsiniz.</p>
+  </div>
+</div>
+<div style="max-width: 100%;" class="card text-white bg-success mb-3">
+  <div class="card-header">Moderasyon</div>
+  <div class="card-body">
+    <h5 style="color:#fff" class="card-title">Moderatör Komutları</h5>
+    <p style="color:#fff" class="card-text">Moderatör Komutlarımız İle Sunucunuzun Güvenliği<br> Sağlayabilir Üyelerinizin Mesajlarını Silebilir ve Banlayabilirsiniz.</p>
+  </div>
+  </div>
+    <div style="max-width: 100%;" class="card text-white bg-info mb-3">
+  <div class="card-header">YouTube</div>
+  <div class="card-body">
+    <h5 style="color:#fff" class="card-title">YouTube bildirici ve ses panel komutu</h5>
+    <p style="color:#fff" class="card-text">YouTube Kanalınıza video atınca discordda mı atsın<br>o zaman Preless sana göre</p>
+  </div>
+</div>
+</div>
+<link crossorigin="anonymous" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  
+
+  
+  body{
+    background-color:#262f3b !important;
+    color:#fff !important;
+  }
+
+.text-secondary{
+  color:#fff !important;
+}
+   
+  .bot-name{
+  color:#fff !important;
+  }
+  
+  .botpagebutton{
+   background:rgba(0, 0, 0, 0.27) !important;
+   color: #fff;
+    }
+  
+  .votebutton{
+     background:rgba(0, 0, 0, 0.27) !important;
+     color:yellow
+  }
+  
+  #menu{
+  background:rgba(0, 0, 0, 0.27) !important;
+  }
+
+  .menu{
+  background:rgba(0, 0, 0, 0.0) !important;
+  }
+  
+  .bot-description{
+    color:#fff !important;
+    }
+   
+   .lib a{
+   color:#fff !important;
+   }
+   
+   .lib a:hover{
+   color:#fff !important;
+   }
+   
+   .bot-name{
+   color:#fff !important;
+   }
+   
+   .status.purple {
+    color: #ffffff
+    !important;
+}
+
+#delete {
+    color: #fff!important;
+}
+
+#bot-details-page .btn-like{
+background-color:#fff;
+color:#444;
+}
+
+#bot-details-page .bot-img {
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+    -webkit-animation-name: float-landing;
+    animation-name: float-landing;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    box-shadow: none !important;
+}
+
+.bot-img{
+    box-shadow: none !important;
+}
+
+.bot-img img {
+    border-radius: 50%;
+}
+
+ @-webkit-keyframes float-landing {
+    0% {-webkit-transform: translate3d(0, -20px, 0);transform: translate3d(0, -20px, 0)}
+    to {-webkit-transform: translate3d(0, 20px, 0);                transform: translate3d(0, 20px, 0)}
+}
+
+@keyframes float-landing {
+    0% {transform: translate3d(0, -20px, 0);transform: translate3d(0, -20px, 0)}
+    to { transform: translate3d(0, 20px, 0);                transform: translate3d(0, 20px, 0)}
+}
+ 
+ 
+ .longdescription .content{
+ box-shadow:none !important;
+ background:none !important;
+ }
+  
+  .bot-btnss a{
+  line-height: 0px !important;
+    padding: 19px 10px;
+    background: #2675d8 !important;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.12);
+    text-decoration:none !important;
+    }
+    
+  
+
+#createdby{
+ color:#fff;
+}
+
+#createdby a {
+    color:#444 !important;
+    text-decoration: none !important;
+}
+
+#bot-details-page .btn-like:after {
+    padding-right: 5px;
+    content: " OY";
+    transition: all 0.8s;
+    white-space: pre;
+    border-radius: 5px;
+}
+
+.bot-tags-title{
+color:#fff !important;
+}
+
+.libclick{
+color:#fff !important;
+}
+
+h2{
+color:#fff !important;
+}
+
+  </style>
+</body></html>
